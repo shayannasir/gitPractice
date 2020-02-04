@@ -1,0 +1,2 @@
+second edit goes to master
+This line will not cause a coflict
