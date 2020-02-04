@@ -1,2 +1,2 @@
 My first text inside the file in master branch
-My second edition into the the inMaster.txt file
+My second edition into the inMaster.txt file!
