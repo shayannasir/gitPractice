@@ -1,2 +1,3 @@
 second edit goes to master
 This line will not cause a coflict
+newBranch gets the first commit
