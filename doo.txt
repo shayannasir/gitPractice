@@ -1,0 +1,2 @@
+O so no this isnt a function like foo
+o = ok
